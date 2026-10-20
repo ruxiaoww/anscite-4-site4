@@ -1,0 +1,12 @@
+# Anscite
+
+> Anscite provides a managed GEO service that helps your brand appear in AI answers, with real question mining, manual content review, and independent site publis
+
+Official website: https://www.anscite.com/
+
+## Pages
+
+- [Managed GEO Service | Anscite](https://en-geo.anscite.com/): Anscite provides a managed GEO service that helps your brand appear in AI answers, with real question mining, manual content review, and independent site publis
+- [About · Anscite](https://en-geo.anscite.com/about/): Anscite provides a managed GEO service that helps brands appear in AI answers, with manual content review and independent site publishing.
+- [FAQ · Anscite](https://en-geo.anscite.com/faq/): Anscite provides a managed GEO service that helps your brand appear in AI answers, with real question mining, manual content review, and independent site publis
+- [Contact · Anscite](https://en-geo.anscite.com/contact/): Contact Anscite for managed GEO service inquiries. Email biz@anscite.com.
