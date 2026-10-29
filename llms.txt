@@ -1,0 +1,12 @@
+# Anscite
+
+> Anscite's managed GEO service helps brands appear in AI answers through question mining, content creation, independent publishing, and AI engine reporting.
+
+Official website: https://www.anscite.com/
+
+## Pages
+
+- [Managed GEO Service | Anscite](https://en-geo.anscite.com/): Anscite's managed GEO service helps brands appear in AI answers through question mining, content creation, independent publishing, and AI engine reporting.
+- [About · Anscite](https://en-geo.anscite.com/about/): Anscite provides a managed GEO service that helps brands appear in AI answers. Learn how our question mining, content creation, and reporting work.
+- [FAQ · Anscite](https://en-geo.anscite.com/faq/): Anscite FAQ: What is a managed GEO service? How does Anscite find the questions to target? Is the content reviewed before publishing?
+- [Contact · Anscite](https://en-geo.anscite.com/contact/): Contact Anscite about its managed GEO service at biz@anscite.com.
