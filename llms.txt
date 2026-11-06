@@ -1,0 +1,13 @@
+# Anscite
+
+> Anscite's managed GEO service puts your brand in AI answers. Team-operated, with regular detection reports. Start with a free baseline probe.
+
+Official website: https://www.anscite.com/
+
+## Pages
+
+- [Anscite Managed GEO - Get Your Brand Mentioned by AI](https://en-geo.anscite.com/): Anscite's managed GEO service puts your brand in AI answers. Team-operated, with regular detection reports. Start with a free baseline probe.
+- [About: Managed GEO service · Anscite](https://en-geo.anscite.com/about/): Anscite provides managed GEO services. Learn who we are, how we work, and what we stand for.
+- [Projects: Managed GEO service · Anscite](https://en-geo.anscite.com/cases/): Anscite projects: Website filing and site build, Site restructuring and first probe, First detection round, First-round brand mention check.
+- [FAQ: Managed GEO service · Anscite](https://en-geo.anscite.com/faq/): Anscite FAQ: What is managed GEO? How does the free probe work? What are the plans and prices? How do I contact Anscite?
+- [Contact: Managed GEO service · Anscite](https://en-geo.anscite.com/contact/): Contact Anscite about managed GEO service.
